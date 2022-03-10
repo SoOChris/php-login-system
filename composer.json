@@ -1,0 +1,17 @@
+{
+    "name": "cristian/php-login-system",
+    "autoload": {
+        "psr-4": {
+            "Cristian\\PhpLoginSystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cristian",
+            "email": "cristian.soares015@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
